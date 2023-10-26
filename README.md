@@ -8,5 +8,5 @@ Libraries used for autoencoders:
   - Tensorflow
   - Keras
 
-Methods used for classification:
+Methods used for clustering:
   - K-Means
